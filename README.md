@@ -1,1 +1,3 @@
-This git repository is used for training
+This git repository is used for training.
+
+Enjoy
