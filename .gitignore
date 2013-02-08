@@ -1,0 +1,9 @@
+# ignore all class files #
+*.class
+
+# ignore all java archives #
+*.jar
+
+# ignore classpath files and settings folder created by eclipse #
+.settings/
+.classpath
